@@ -1,0 +1,23 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "description": "jasmine framework",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=test/config/jasmine.json",
+    "test": "protractor test/config/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealofevil/Jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sealofevil/Jasmine/issues"
+  },
+  "homepage": "https://github.com/sealofevil/Jasmine#readme"
+}
